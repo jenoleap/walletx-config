@@ -1,0 +1,8 @@
+{
+  "latest": "1.0.5",
+  "minSupported": "1.0.4",
+  "android": {
+    "playUrl": "https://play.google.com/store/apps/details?id=com.walletx.app"
+  },
+  "message": "New update available."
+}
